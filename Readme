@@ -1,1 +1,3 @@
-Code coming soon
+Source codes of the work "Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection" 
+
+The demo file (including corresponding dataset) of UCI is included in this repository. We run the demo on MATLAB R2024a on a personal computer with the AMD Ryzen 5 7500F 6-Core Processor and 32 GB RAM.
