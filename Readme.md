@@ -1,4 +1,5 @@
-**Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection**
+**Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection**  
+
 Demo codes of the work "Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection" 
 
 Some tips to use this package code:
