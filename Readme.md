@@ -10,7 +10,7 @@ The default experiment uses the MSRC-v1 dataset, which is included in the packag
 You can replace the dataset in the experiment as you want.
 We run the demo on MATLAB R2024a on a personal computer with the AMD Ryzen 5 7500F 6-Core Processor and 32 GB RAM.
 
-If you find this code useful, please consider to cite our work.
+If you find this work useful, please cite:
 
 ```bibtex
 @article{wang2025robust,
