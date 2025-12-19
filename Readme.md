@@ -11,6 +11,7 @@ You can replace the dataset in the experiment as you want.
 We run the demo on MATLAB R2024a on a personal computer with the AMD Ryzen 5 7500F 6-Core Processor and 32 GB RAM.
 
 If you find this code useful, please consider to cite our work.
+
 @article{wang2025robust,
   title={Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection},
   author={Wang, Chen and Song, Peng and Wang, Changjia and Yang, Beihua and Liu, Zhaowei},
