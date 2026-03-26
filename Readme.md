@@ -1,4 +1,4 @@
-**Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection**  ![Neural Networks](https://img.shields.io/badge/Journal-Neural%20Networks-blue)[![Read on ScienceDirect](https://img.shields.io/badge/ScienceDirect-View%20Paper-orange)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025013590)
+**Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection**  [![Journal](https://img.shields.io/badge/Journal-Neural%20Networks-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025013590)
 ---
 <img width="1564" height="744" alt="image" src="https://github.com/user-attachments/assets/c6a44d1f-7260-4bbb-8ad1-701a590059b2" />
 
