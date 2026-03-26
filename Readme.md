@@ -13,11 +13,12 @@ We run the demo on MATLAB R2024a on a personal computer with the AMD Ryzen 5 750
 If you find this work useful, please cite:
 
 ```bibtex
-@article{wang2025robust,
+@article{wang2026robust,
   title={Robust Structure-Preservation Tensorized Representation for Multi-View Unsupervised Feature Selection},
   author={Wang, Chen and Song, Peng and Wang, Changjia and Yang, Beihua and Liu, Zhaowei},
   journal={Neural Networks},
+  volume={197},
   pages={108478},
-  year={2025},
+  year={2026},
   publisher={Elsevier}
 }
